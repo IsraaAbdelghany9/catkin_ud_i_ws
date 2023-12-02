@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/add_teo_ints_server_node.dir/src/add_two_ints_server.cpp.o  -o /home/israa/catkin_ud_i_ws/devel/lib/custom_msg_pkg/add_teo_ints_server_node 

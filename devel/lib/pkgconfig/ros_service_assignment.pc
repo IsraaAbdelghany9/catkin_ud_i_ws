@@ -1,0 +1,8 @@
+prefix=/home/israa/catkin_ud_i_ws/devel
+
+Name: ros_service_assignment
+Description: Description of ros_service_assignment
+Version: 0.0.0
+Cflags: -I/home/israa/catkin_ud_i_ws/devel/include -I/home/israa/catkin_ud_i_ws/src/ros_service_assignment/include
+Libs: -L${prefix}/lib -lros_service_assignment
+Requires: roscpp std_msgs message_runtime

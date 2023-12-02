@@ -1,2 +1,2 @@
-
+ass_1:custom_msg_pkg:first_pkg:ros_service_assignment
 -DCATKIN_DEVEL_PREFIX=/home/israa/catkin_ud_i_ws/devel -DCMAKE_INSTALL_PREFIX=/home/israa/catkin_ud_i_ws/install -G Unix Makefiles

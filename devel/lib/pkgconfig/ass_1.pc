@@ -1,0 +1,8 @@
+prefix=/home/israa/catkin_ud_i_ws/devel
+
+Name: ass_1
+Description: Description of ass_1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
