@@ -2,4 +2,4 @@
 source_root_dir = '/home/israa/catkin_ud_i_ws/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/israa/catkin_ud_i_ws/devel;/opt/ros/noetic'.split(';') if '/home/israa/catkin_ud_i_ws/devel;/opt/ros/noetic' != '' else []
+underlay_workspaces = '/home/israa/catkin_ws/devel;/opt/ros/noetic'.split(';') if '/home/israa/catkin_ws/devel;/opt/ros/noetic' != '' else []

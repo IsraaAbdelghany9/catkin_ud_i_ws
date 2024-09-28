@@ -135,6 +135,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/israa/catkin_ud_i_ws/build/custom_msg_pkg/cmake_install.cmake")
   include("/home/israa/catkin_ud_i_ws/build/first_pkg/cmake_install.cmake")
   include("/home/israa/catkin_ud_i_ws/build/ros_service_assignment/cmake_install.cmake")
+  include("/home/israa/catkin_ud_i_ws/build/raspicam_node/cmake_install.cmake")
 
 endif()
 
